@@ -1,0 +1,7 @@
+---
+- link: /about.html
+  name: about
+- link: /cv.html
+  name: c.v.
+- link: https://gotdairyya.substack.com/
+  name: thoughts
