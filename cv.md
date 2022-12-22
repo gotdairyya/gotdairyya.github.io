@@ -45,24 +45,24 @@ pdf version [here](/assets/images/Akbaba-CV.pdf)
 
 check out my substack for more opinion-y pieces
 
-|          |     |                                                                                                               |
-| -------- | --- | ------------------------------------------------------------------------------------------------------------- |
-| **2021** |     | [**Wait...I never signed up to be an economist.**](https://vdl.sci.utah.edu/blog/2021/12/08/fair-pay-panel/)  |
-|          |     | <u>Derya Akbaba</u>, Kiran Gadhave                                                                            |
-|          |     | _Visualization Design Lab Blog, dec 2021._                                                                    |
-|          |     |                                                                                                               |
-|          |     | [**Manifesto for Putting Chartjunk in the Trash 2021!**](https://vdl.sci.utah.edu/blog/2021/09/19/chartjunk/) |
-|          |     | <u>Derya Akbaba</u>, Jack Wilburn, Miriah Meyer                                                               |
-|          |     | _Visualization Design Lab Blog, sept 2021._                                                                   |
-|          |     |                                                                                                               |
-| **2020** |     | **Visualizing Uncertainty: What can graphics convey about the character of data?.**                           |
-|          |     | <u>Derya Akbaba</u>                                                                                           |
-|          |     | _Natural History Magazine, sept 2020._                                                                        |
-|          |     |                                                                                                               |
-|          |     | [**State COVID-19 Dashboard.**](https://vdl.sci.utah.edu/blog/2020/07/20/state-dashboards/)                   |
-|          |     | <u>Derya Akbaba</u>                                                                                           |
-|          |     | _Visualization Design Lab Blog, jul 2021_                                                                     |
-|          |     |                                                                                                               |
+|          |     |                                                                                                                                    |
+| -------- | --- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **2021** |     | [**Wait...I never signed up to be an economist.**](https://vdl.sci.utah.edu/blog/2021/12/08/fair-pay-panel/)                       |
+|          |     | <u>Derya Akbaba</u>, Kiran Gadhave                                                                                                 |
+|          |     | _Visualization Design Lab Blog, dec 2021._                                                                                         |
+|          |     |                                                                                                                                    |
+|          |     | [**Manifesto for Putting Chartjunk in the Trash 2021!**](https://vdl.sci.utah.edu/blog/2021/09/19/chartjunk/)                      |
+|          |     | <u>Derya Akbaba</u>, Jack Wilburn, Miriah Meyer                                                                                    |
+|          |     | _Visualization Design Lab Blog, sept 2021._                                                                                        |
+|          |     |                                                                                                                                    |
+| **2020** |     | [**Visualizing Uncertainty: What can graphics convey about the character of data?.**](/assets/papers/Sep20-NH-digital-edition.pdf) |
+|          |     | <u>Derya Akbaba</u>                                                                                                                |
+|          |     | _Natural History Magazine, sept 2020._                                                                                             |
+|          |     |                                                                                                                                    |
+|          |     | [**State COVID-19 Dashboard.**](https://vdl.sci.utah.edu/blog/2020/07/20/state-dashboards/)                                        |
+|          |     | <u>Derya Akbaba</u>                                                                                                                |
+|          |     | _Visualization Design Lab Blog, jul 2021_                                                                                          |
+|          |     |                                                                                                                                    |
 
 <br>
 
