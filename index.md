@@ -33,6 +33,8 @@ dairy-ya | she/her/hers
 
 Ⓜ [b/c elon musk ruins everything](https://mastodon.social/@gotdairyya)
 
+📖 [i like books](https://www.goodreads.com/user/show/63729092-derya)
+
 <br>
 
 ## past
