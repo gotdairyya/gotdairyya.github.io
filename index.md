@@ -5,7 +5,9 @@ title: about me
 
 hi! my name is derya
 
-dairy-ya | she/her/hers
+<p>pronounced in english: dairy-ya<br>
+pronouns in english: she/her/hers
+</p>
 
 <section id="about-me" markdown=1>
 
