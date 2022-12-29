@@ -56,3 +56,13 @@ h2 {
     display: inline-block;
   }
 
+  /* CHANGE PHOTO ON MOBILE */
+
+  @media only screen and (max-width: 600px) {
+    #photo {
+      width: 70%;
+      float: left;
+      display: block;
+      margin: 25pt;
+    }
+  }
