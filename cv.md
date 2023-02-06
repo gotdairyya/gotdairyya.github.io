@@ -30,6 +30,10 @@ pdf version [here](/assets/images/Akbaba-CV.pdf)
 
 |          |     |                                                                                                                                        |
 | -------- | --- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **2023** |     | [**Troubling Collaboration: Matters of Care for Visualization Design Study**](https://osf.io/5y7ar/)                                   |
+|          |     | <u>Derya Akbaba</u>, Devin Lange, Michael Correll, Alexander Lex, Miriah Meyer                                                         |
+|          |     | _(to appear) SIGCHI Conference on Human Factors in Computing Systems), 2023._                                                          |
+|          |     |                                                                                                                                        |
 | **2022** |     | [**Data Hunches: Incorporating Personal Knowledge into Visualizations**](https://vdl.sci.utah.edu/publications/2022_vis_data_hunches/) |
 |          |     | Haihan Lin, <u>Derya Akbaba</u>, Miriah Meyer, Alexander Lex                                                                           |
 |          |     | _IEEE Transactions on Visualization and Computer Graphics, 2022._                                                                      |
