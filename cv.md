@@ -106,22 +106,28 @@ check out my substack for more opinion-y pieces
 
 ## service
 
-|               |     |                                                        |
-| ------------- | --- | ------------------------------------------------------ |
-| **2022**      |     | [**alt.vis**](https://altvis.github.io/)               |
-|               |     | Organizing Committee                                   |
-|               |     |                                                        |
-|               |     | [**Eyeo Festival** ](https://eyeofestival.com/)        |
-|               |     | Student Volunteer                                      |
-|               |     |                                                        |
-| **2020**      |     | [**IEEE VIS**](https://ieeevis.org/year/2020/welcome)  |
-|               |     | Student Volunteer                                      |
-|               |     |                                                        |
-|               |     | College of Engineering Diversity Committee, U. of Utah |
-|               |     | Grad Representative                                    |
-|               |     |                                                        |
-| **Reviewing** |     | IEEE VIS ('22)                                         |
-|               |     |                                                        |
+|               |     |                                                                |
+| ------------- | --- | -------------------------------------------------------------- |
+| **2023**      |     | [**Info+ Conference**](https://informationplusconference.com/) |
+|               |     | Communication, Design Co-Chair                                 |
+|               |     |                                                                |
+|               |     | [**alt.vis**](https://altvis.github.io/)                       |
+|               |     | Organizing Committee                                           |
+|               |     |                                                                |
+| **2022**      |     | [**alt.vis**](https://altvis.github.io/)                       |
+|               |     | Organizing Committee                                           |
+|               |     |                                                                |
+|               |     | [**Eyeo Festival** ](https://eyeofestival.com/)                |
+|               |     | Student Volunteer                                              |
+|               |     |                                                                |
+| **2020**      |     | [**IEEE VIS**](https://ieeevis.org/year/2020/welcome)          |
+|               |     | Student Volunteer                                              |
+|               |     |                                                                |
+|               |     | College of Engineering Diversity Committee, U. of Utah         |
+|               |     | Grad Representative                                            |
+|               |     |                                                                |
+| **Reviewing** |     | IEEE VIS ('22)                                                 |
+|               |     |                                                                |
 
 <br>
 
