@@ -23,7 +23,7 @@ h2 {
   }
   
   li, p,
-  summary {
+  summary, span {
     font-family: "Darker Grotesque", sans-serif;
     font-size: 18px;
     line-height: 22px;
