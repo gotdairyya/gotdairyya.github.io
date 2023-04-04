@@ -37,6 +37,8 @@ pronouns in english: she/her/hers
 
 📖 [i like books](https://www.goodreads.com/user/show/63729092-derya)
 
+💾 [a list of lists about data vis](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_SZmjPfMUKl9SvwmWno80SdKGW6MNk_BDux0oAnl3KRAeUWZtCGtV1O_Uc-r5SuKBhljZaWlAhmj7/pubhtml)
+
 <br>
 
 ## past
