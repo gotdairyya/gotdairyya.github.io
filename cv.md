@@ -126,7 +126,7 @@ check out my substack for more opinion-y pieces
 |               |     | College of Engineering Diversity Committee, U. of Utah         |
 |               |     | Grad Representative                                            |
 |               |     |                                                                |
-| **Reviewing** |     | IEEE VIS ('23, '22), alt.vis ('23, '22)                        |
+| **Reviewing** |     | IEEE VIS ('23, '22), alt.vis ('23, '22), TVCG ('23)            |
 |               |     |                                                                |
 
 <br>

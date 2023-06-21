@@ -3,6 +3,19 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
 
+
+:root {
+  /* VAPORWAVE */
+  --green: #62CD88;
+  --yellow: #FADF96;
+  --orange: #F0918E;
+  --pink: #ED73D0;
+  --purple: #A88DF8;
+  --blue: #9FCEFB;
+}
+
+
+
 /* TEXT */
 h1 {
     font-family: "Indie Flower";
