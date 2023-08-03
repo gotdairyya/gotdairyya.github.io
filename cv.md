@@ -30,9 +30,13 @@ pdf version [here](/assets/images/Akbaba-CV.pdf)
 
 |          |     |                                                                                                                                        |
 | -------- | --- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **2023** |     | [**Troubling Collaboration: Matters of Care for Visualization Design Study**](https://osf.io/5y7ar/)                                   |
+| **2023** |     | [**"Two Heads are Better than One": Pair-Interviews for Visualization**](https://osf.io/h793u/)                                        |
+|          |     | <u>Derya Akbaba</u>, Miriah Meyer                                                                                                      |
+|          |     | _(to appear) IEEE Transactions on Visualization and Computer Graphics, 2023._                                                          |
+|          |     |                                                                                                                                        |
+|          |     | [**Troubling Collaboration: Matters of Care for Visualization Design Study**](https://dl.acm.org/doi/abs/10.1145/3544548.3581168)      |
 |          |     | <u>Derya Akbaba</u>, Devin Lange, Michael Correll, Alexander Lex, Miriah Meyer                                                         |
-|          |     | _(to appear) SIGCHI Conference on Human Factors in Computing Systems), 2023._                                                          |
+|          |     | _In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23)._                                           |
 |          |     |                                                                                                                                        |
 | **2022** |     | [**Data Hunches: Incorporating Personal Knowledge into Visualizations**](https://vdl.sci.utah.edu/publications/2022_vis_data_hunches/) |
 |          |     | Haihan Lin, <u>Derya Akbaba</u>, Miriah Meyer, Alexander Lex                                                                           |
