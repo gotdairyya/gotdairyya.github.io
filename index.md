@@ -43,6 +43,6 @@ pronouns in english: she/her/hers
 
 ## past
 
-☼ Masters, Computing @ University of Utah, 2022
+☼ Masters, Computing @ [University of Utah](https://www.sci.utah.edu/the-institute.html), 2022
 
-☃ BSc, Industrial & Labor Relations @ Cornell, 2013
+☃ BSc, Industrial & Labor Relations @ [Cornell](https://www.ilr.cornell.edu/), 2013
