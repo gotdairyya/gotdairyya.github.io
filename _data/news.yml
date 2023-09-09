@@ -1,0 +1,22 @@
+---
+- date: 2023-09-01
+  place: Germany
+  news: Attending my first <a href="https://www.dagstuhl.de/23381">Dagstuhl</a>. The topic will be on Visualization and the Humanities.
+- date: 2023-08-01
+  place: Australia + Scotland
+  news:
+    Will be presenting at <a href="https://ieeevis.org/year/2023/welcome">IEEE VIS</a> in Melbourne & <a
+    href="https://informationplusconference.com/2023/">Info+</a> in Edinburgh.
+- date: 2023-05-01
+  place: Denmark
+  news: Visiting and presenting at the HCDS group and hdilab @ ITU Copenhagen.
+- date: 2023-04-01
+  place: Germany
+  news:
+    Presenting my first first author <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3581168">publication</a> at CHI
+    2023, in Hamburg.
+- date: 2023-03-01
+  place: virtual
+  news:
+    Wrote down my <a href="https://gotdairyya.substack.com/p/grwm-reflecting-on-qualitative-work">thoughts</a> about qual
+    work in vis.

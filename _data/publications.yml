@@ -1,0 +1,29 @@
+---
+- title: '"Two Heads are Better than One": Pair-Interviews for Visualization'
+  authors: Derya Akbaba, Miriah Meyer
+  journal: IEEE Transactions on Visualization and Computer Graphics
+  year: 2023
+  links: <a href="https://osf.io/h793u/">pre-print</a> <a
+    href="https://gotdairyya.github.io/pair-interview-primer/mechanics/">supplemental material</a>
+- title: "Troubling Collaboration: Matters of Care for Visualization Design Study"
+  authors: Derya Akbaba, Devin Lange, Michael Correll, Alexander Lex, Miriah Meyer
+  journal: In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23)
+  year: 2023
+  links:
+    <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3581168">paper</a> <a
+    href="https://gotdairyya.substack.com/p/grwm-reflecting-on-qualitative-work">blog post</a> <a
+    href="https://osf.io/cvrbs/">supplemental material</a>
+- title: "Data Hunches: Incorporating Personal Knowledge into Visualizations"
+  authors: Haihan Lin, Derya Akbaba, Miriah Meyer, Alexander Lex
+  journal: IEEE Transactions on Visualization and Computer Graphics
+  year: 2023
+  links: a href="https://ieeexplore.ieee.org/document/9903288">paper</a> <a
+    href="http://vdl.sci.utah.edu/data-hunch/">interactive prototype</a> <a
+    href="https://vdl.sci.utah.edu/publications/2022_vis_data_hunches/">supplemental material</a>
+- title: Manifesto for Putting 'Chartjunk' in the Trash 2021!
+  authors: Derya Akbaba, Jack Wilburn, Main T. Nance, Miriah Meyer
+  journal: alt.VIS, a workshop co-located with IEEE VIS
+  year: 2021
+  links:
+    <a href="https://altvis.github.io/papers/2021/akbaba.pdf">paper</a> <a href="https://chartjunk.art/">performance
+    art as website</a>
