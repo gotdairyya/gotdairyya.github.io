@@ -2,11 +2,9 @@
 - date: 2023-09-01
   place: Germany
   news: Attending my first <a href="https://www.dagstuhl.de/23381">Dagstuhl</a>. The topic will be on Visualization and the Humanities.
-- date: 2023-08-01
-  place: Australia + Scotland
-  news:
-    Will be presenting at <a href="https://ieeevis.org/year/2023/welcome">IEEE VIS</a> in Melbourne & <a
-    href="https://informationplusconference.com/2023/">Info+</a> in Edinburgh.
+- date: 2023-10-01
+  place: Australia
+  news: Presenting <a href="https://osf.io/h793u/"><em>Two Heads are Better than One</em></a> at <a href="https://ieeevis.org/year/2023/welcome">IEEE VIS</a> in Melbourne.
 - date: 2023-05-01
   place: Denmark
   news: Visiting and presenting at the HCDS group and hdilab @ ITU Copenhagen.
@@ -18,5 +16,13 @@
 - date: 2023-03-01
   place: virtual
   news:
-    Wrote down my <a href="https://gotdairyya.substack.com/p/grwm-reflecting-on-qualitative-work">thoughts</a> about qual
+    New blog post. my <a href="https://gotdairyya.substack.com/p/grwm-reflecting-on-qualitative-work">thoughts</a> about qual
     work in vis.
+- date: 2023-11-01
+  place: Sweden
+  news: Presenting <em>A speculative feminist knowledge elicitation system</em> at the WASP-HS <a href="https://wasp-hs.org/event/ai-for-humanity-and-society-2023/">AI for Humanity and Society 2023</a> conference workshop.
+- date: 2023-10-27
+  place: Scotland
+  news:
+    Presenting <em>I Was Here. Digital Traces as Design Material</em> with Tobias Kauer at <a
+    href="https://informationplusconference.com/2023/">Info+</a> in Edinburgh.

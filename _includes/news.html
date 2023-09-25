@@ -15,7 +15,8 @@
 <br>
 
 <h2>news</h2>
-{% for news in site.data.news limit:3 %}
-<strong>{{news.date | date: "%b %Y"}}</strong>, {{news.place}}
+{% assign news_collection = site.data.news | sort: 'date' | reverse %}
+{% for news in news_collection limit:3 %}
+<strong>{{news.date | date: "%b %Y"}}</strong> :: {{news.place}}
 <p>{{news.news}}</p>
 {% endfor %}
