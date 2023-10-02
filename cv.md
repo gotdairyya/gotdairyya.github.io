@@ -3,7 +3,8 @@ layout: default
 title: c.v.
 ---
 
-pdf version [here](/assets/images/Akbaba-CV.pdf)
+<!--
+pdf version [here](/assets/images/Akbaba-CV.pdf) -->
 
 ## education
 
@@ -28,50 +29,14 @@ pdf version [here](/assets/images/Akbaba-CV.pdf)
 
 ## publications
 
-|          |     |                                                                                                                                        |
-| -------- | --- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **2023** |     | [**"Two Heads are Better than One": Pair-Interviews for Visualization**](https://osf.io/h793u/)                                        |
-|          |     | <u>Derya Akbaba</u>, Miriah Meyer                                                                                                      |
-|          |     | _(to appear) IEEE Transactions on Visualization and Computer Graphics, 2023._                                                          |
-|          |     |                                                                                                                                        |
-|          |     | [**Troubling Collaboration: Matters of Care for Visualization Design Study**](https://dl.acm.org/doi/abs/10.1145/3544548.3581168)      |
-|          |     | <u>Derya Akbaba</u>, Devin Lange, Michael Correll, Alexander Lex, Miriah Meyer                                                         |
-|          |     | _In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23)._                                           |
-|          |     |                                                                                                                                        |
-| **2022** |     | [**Data Hunches: Incorporating Personal Knowledge into Visualizations**](https://vdl.sci.utah.edu/publications/2022_vis_data_hunches/) |
-|          |     | Haihan Lin, <u>Derya Akbaba</u>, Miriah Meyer, Alexander Lex                                                                           |
-|          |     | _IEEE Transactions on Visualization and Computer Graphics, 2022._                                                                      |
-|          |     |                                                                                                                                        |
-| **2021** |     | [**Manifesto for Putting Chartjunk in the Trash 2021!**](https://vdl.sci.utah.edu/publications/2021_altvis_chartjunk/)                 |
-|          |     | <u>Derya Akbaba</u>, Jack Wilburn, Main T. Nance, Miriah Meyer                                                                         |
-|          |     | _alt.VIS, a workshop co-located with IEEE VIS, 2021._                                                                                  |
-|          |     |                                                                                                                                        |
-
+{% include cv_publications.html data=site.data.publications %}
 <br>
 
 ## other publications
 
-check out my substack for more opinion-y pieces
+check out my [substack](https://gotdairyya.substack.com/) for more opinion-y pieces
 
-|          |     |                                                                                                                                    |
-| -------- | --- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **2021** |     | [**Wait...I never signed up to be an economist.**](https://vdl.sci.utah.edu/blog/2021/12/08/fair-pay-panel/)                       |
-|          |     | <u>Derya Akbaba</u>, Kiran Gadhave                                                                                                 |
-|          |     | _Visualization Design Lab Blog, dec 2021._                                                                                         |
-|          |     |                                                                                                                                    |
-|          |     | [**Manifesto for Putting Chartjunk in the Trash 2021!**](https://vdl.sci.utah.edu/blog/2021/09/19/chartjunk/)                      |
-|          |     | <u>Derya Akbaba</u>, Jack Wilburn, Miriah Meyer                                                                                    |
-|          |     | _Visualization Design Lab Blog, sept 2021._                                                                                        |
-|          |     |                                                                                                                                    |
-| **2020** |     | [**Visualizing Uncertainty: What can graphics convey about the character of data?.**](/assets/papers/Sep20-NH-digital-edition.pdf) |
-|          |     | <u>Derya Akbaba</u>                                                                                                                |
-|          |     | _Natural History Magazine, sept 2020._                                                                                             |
-|          |     |                                                                                                                                    |
-|          |     | [**State COVID-19 Dashboard.**](https://vdl.sci.utah.edu/blog/2020/07/20/state-dashboards/)                                        |
-|          |     | <u>Derya Akbaba</u>                                                                                                                |
-|          |     | _Visualization Design Lab Blog, jul 2021_                                                                                          |
-|          |     |                                                                                                                                    |
-
+{% include cv_publications.html data=site.data.otherpubs %}
 <br>
 
 ## selected talks + performances
@@ -88,23 +53,33 @@ check out my substack for more opinion-y pieces
 
 ## invited workshops
 
-|          |     |                                   |
-| -------- | --- | --------------------------------- |
-| **2022** |     | **STEM Ambassador**               |
-|          |     | Spring Cohort                     |
-|          |     |                                   |
-| **2021** |     | **CRA-WP**                        |
-|          |     | Grad Cohort for Women             |
-|          |     |                                   |
-| **2020** |     | **ComSciCon Flagship**            |
-|          |     | Workshop Participant              |
-|          |     |                                   |
-|          |     | **Critical Code Studies**         |
-|          |     | Workshop Participant              |
-|          |     |                                   |
-| **2019** |     | **School for Poetic Computation** |
-|          |     | Code, Paper, Scissor Cohort       |
-|          |     |                                   |
+|          |     |                                                                                                                 |
+| -------- | --- | --------------------------------------------------------------------------------------------------------------- |
+| **2023** |     | [**Dagstuhl**](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23381)                      |
+|          |     | Visualization and the Humanities: Towards a Shared Research Agenda                                              |
+|          |     |                                                                                                                 |
+|          |     | [**Workshop at CSCW**](https://blogg.sh.se/a-toolbox-of-feminist-wonder/)                                       |
+|          |     | A Toolbox of Feminist Wonder: Theories and methods that can make a difference                                   |
+|          |     |                                                                                                                 |
+|          |     | [**Workshop at AI for Humanity and Society 2023**](https://wasp-hs.org/event/ai-for-humanity-and-society-2023/) |
+|          |     | Knowledge Elicitation: Data Collection and Knowledge Modeling for Human-Aware Systems                           |
+|  |
+|          |     |                                                                                                                 |
+| **2022** |     | **STEM Ambassador**                                                                                             |
+|          |     | Spring Cohort                                                                                                   |
+|          |     |                                                                                                                 |
+| **2021** |     | **CRA-WP**                                                                                                      |
+|          |     | Grad Cohort for Women                                                                                           |
+|          |     |                                                                                                                 |
+| **2020** |     | **ComSciCon Flagship**                                                                                          |
+|          |     | Workshop Participant                                                                                            |
+|          |     |                                                                                                                 |
+|          |     | **Critical Code Studies**                                                                                       |
+|          |     | Workshop Participant                                                                                            |
+|          |     |                                                                                                                 |
+| **2019** |     | **School for Poetic Computation**                                                                               |
+|          |     | Code, Paper, Scissor Cohort                                                                                     |
+|          |     |                                                                                                                 |
 
 <br>
 

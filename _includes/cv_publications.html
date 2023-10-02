@@ -1,0 +1,7 @@
+{% for pub in include.data %}
+<bold>{{pub.title}}</bold>
+<span>{{pub.authors}}</span><br>
+<span>{{pub.journal}}, {{pub.year}}</span><br>
+<span>{{pub.links}}</span>
+
+{% endfor %}
