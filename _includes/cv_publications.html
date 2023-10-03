@@ -1,7 +1,19 @@
-{% for pub in include.data %}
+{% if include.data == site.data.reviewing or include.data == site.data.service %}
+{% for item in include.data %}
+<bold>{{item.role}}</bold>
+<span>{{item.venue}} {{item.year}}</span><br>
+
+{% endfor %}
+
+{% else %}
+
+{% assign pubs = include.data | sort: "date" %}
+{% for pub in pubs reversed %}
 <bold>{{pub.title}}</bold>
 <span>{{pub.authors}}</span><br>
-<span>{{pub.journal}}, {{pub.year}}</span><br>
+<span>{{pub.journal}} {{pub.year}}</span><br>
 <span>{{pub.links}}</span>
 
 {% endfor %}
+
+{% endif %}
