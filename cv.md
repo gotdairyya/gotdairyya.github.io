@@ -53,7 +53,7 @@ check out my [substack](https://gotdairyya.substack.com/) for more opinion-y pie
 {% for class in teaching reversed %}
 <bold>{{class.role}}</bold>
 <span>{{class.course}}</span><br>
-<span>{{class.school}}, {{class.year}}</span>
+<span>{{class.school}}, {{class.semester}}</span>
 
 {% endfor %}
 

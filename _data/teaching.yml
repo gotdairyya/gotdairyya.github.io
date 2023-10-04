@@ -1,16 +1,20 @@
 - school: University of Utah
   course: "COMP1010: Computing for All"
-  year: S2020
+  year: 2020
+  semester: S2020
   role: Teaching Assistant
 - school: University of Utah
   course: "Advised: Pranav Rajan"
-  year: S2021
+  year: 2021
+  semester: S2021
   role: Undergraduate Student Advisor
 - school: Linköping University
   course: "TDDE39: Physical Interaction Design and Prototyping"
-  year: S2023
+  year: 2023
+  semester: S2023
   role: Implosion Workshop Seminar
 - school: Linköping University
   course: "TNM101: Advanced Visualization Design"
-  year: F2023
+  year: 2023
+  semester: F2023
   role: Critical Perspectives in Visualziation Seminar
