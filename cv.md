@@ -3,8 +3,7 @@ layout: default
 title: c.v.
 ---
 
-<!--
-pdf version [here](/assets/images/Akbaba-CV.pdf) -->
+pdf version [here](/assets/images/Akbaba-CV.pdf)
 
 ### peer-reviewed conference publications
 
