@@ -1,5 +1,6 @@
 {% if include.data == site.data.reviewing or include.data == site.data.service %}
-{% for item in include.data %}
+{% assign items = include.data | sort: "year" %}
+{% for item in items reversed %}
 <bold>{{item.role}}</bold>
 <span>{{item.venue}} {{item.year}}</span><br>
 
