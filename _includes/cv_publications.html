@@ -8,13 +8,24 @@
 
 {% else %}
 
+
 {% assign pubs = include.data | sort: "date" %}
 {% for pub in pubs reversed %}
-<bold>{{pub.title}}</bold>
-<span>{{pub.authors}}</span><br>
-<span>{{pub.journal}} {{pub.year}}</span><br>
-<span>{{pub.links}}</span>
-
+<div class="row">
+    <div class="col">
+        <bold>{{pub.title}}</bold><br>
+        <span>{{pub.authors}}</span><br>
+        <span>{{pub.journal}} {{pub.year}}</span><br>
+        <span>{{pub.links}}</span>
+    </div>
+    {% if pub.image %}
+    <div class="col">
+        <img src="/assets/papers/{{pub.image}}" alt="Teaser image for publication. Shakes and dances on hover."
+            class="img-fluid pub-image" style="max-height: 68;" />
+    </div>
+    {% endif %}
+</div>
 {% endfor %}
+
 
 {% endif %}
