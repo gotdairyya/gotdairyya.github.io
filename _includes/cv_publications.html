@@ -11,7 +11,7 @@
 
 {% assign pubs = include.data | sort: "date" %}
 {% for pub in pubs reversed %}
-<div class="row">
+<div class="row" style="margin-bottom: 10;">
     <div class="col">
         <bold>{{pub.title}}</bold><br>
         <span>{{pub.authors}}</span><br>

@@ -1,8 +1,17 @@
 <br>
 <br>
 
-<h2>publications</h2>
-{% for pub in site.data.publications limit:4 %}
+<h2>recent work</h2>
+{% assign allpubs = "" | split: "" %}
+{% for pub in site.data.publications %}
+{% assign allpubs = allpubs | push: pub %}
+{% endfor %}
+{% for pub in site.data.shortpubs %}
+{% assign allpubs = allpubs | push: pub %}
+{% endfor %}
+
+{% assign sorted = allpubs | sort: 'date' | reverse %}
+{% for pub in sorted limit:4 %}
 <span><strong>{{pub.title}}</strong></span><br>
 <span>{{pub.authors}}</span><br>
 <span>{{pub.journal}}, {{pub.year}}</span><br>
