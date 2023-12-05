@@ -1,7 +1,7 @@
 ---
-- venue: IEEE VIS
+- venue:
   year: "Full Papers ('22, '23), alt.vis ('22, '23)"
-  role:
-- venue: TVCG
-  year: "Journal ('23')"
-  role:
+  role: IEEE VIS
+- venue:
+  year: "Journal ('23)"
+  role: TVCG

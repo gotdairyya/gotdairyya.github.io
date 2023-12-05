@@ -1,14 +1,31 @@
-{% if include.data == site.data.reviewing or include.data == site.data.service %}
-{% assign items = include.data | sort: "year" %}
-{% for item in items reversed %}
-<bold>{{item.role}}</bold>
-<span>{{item.venue}} {{item.year}}</span><br>
-
+<!-- TALKS -->
+{% if include.data == site.data.talks %}
+{% assign talks_grouped = include.data | group_by: 'title' %}
+{% for talks in talks_grouped %}
+<div class="row" style="margin-bottom: 10;">
+    <div class="col">
+        <bold>{{talks.name}}</bold><br>
+        {% for talk in talks.items %}
+        <span>{{talk.organization}}, {{talk.year}}</span><br>
+        {% endfor %}
+    </div>
+</div>
 {% endfor %}
 
+<!-- REVIEWING WORK and SERVICE -->
+{% elsif include.data == site.data.reviewing or include.data == site.data.service %}
+{% assign things = include.data | sort: "year" %}
+{% for thing in things reversed %}
+<div class="row" style="margin-bottom: 10;">
+    <div class="col">
+        <bold>{{thing.role}}</bold>
+        <span>{{thing.venue}} {{thing.year}}</span><br>
+    </div>
+</div>
+{% endfor %}
+
+<!-- EVERYTHING ELSE -->
 {% else %}
-
-
 {% assign pubs = include.data | sort: "date" %}
 {% for pub in pubs reversed %}
 <div class="row" style="margin-bottom: 10;">
