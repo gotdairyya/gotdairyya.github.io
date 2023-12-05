@@ -15,7 +15,7 @@ pronouns in english: she/her/hers
 
 ## thinking about...
 
-- applying critical theory + visualization
+- applying critical & feminist theory + visualization
 - communicating science research
 - understanding how data became important
 - learning Swedish
