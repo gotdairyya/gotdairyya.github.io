@@ -7,14 +7,19 @@
   course: "Advised: Pranav Rajan"
   year: 2021
   semester: S2021
-  role: Undergraduate Student Advisor
+  role: Bachelors Thesis Advisor
 - school: Linköping University
   course: "TDDE39: Physical Interaction Design and Prototyping"
-  year: 2023
-  semester: S2023
+  year: 2024
+  semester: S2023, S2024
   role: Implosion Workshop Seminar
 - school: Linköping University
   course: "TNM101: Advanced Visualization Design"
   year: 2023
   semester: F2023
-  role: Critical Perspectives in Visualziation Seminar
+  role: Critical Perspectives in Visualization Seminar
+- school: Linköping University
+  course: "Advised: Camilla Svensson & Claudia Torelli"
+  year: 2024
+  semester: S2024
+  role: Master Thesis Advisor
