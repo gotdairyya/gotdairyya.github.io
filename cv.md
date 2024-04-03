@@ -22,13 +22,13 @@ check out my [substack](https://gotdairyya.substack.com/) for more opinion-y pie
 {% include cv_publications.html data=site.data.otherpubs %}
 <br>
 
-### invited talks
+### talks
 
 {% include cv_publications.html data=site.data.talks %}
 
 <br>
 
-### invited workshops
+### workshops
 
 {% include cv_publications.html data=site.data.workshops %}
 
