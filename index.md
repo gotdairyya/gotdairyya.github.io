@@ -6,7 +6,10 @@ title: about me
 hi! my name is derya
 
 <p>pronounced in english: dairy-ya<br>
-pronouns in english: she/her/hers
+pronouns in english: she/her/hers<br>
+
+currently looking for assistant professor roles (& postdocs) in Europe
+
 </p>
 
 <section id="about-me" markdown=1>
