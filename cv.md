@@ -22,18 +22,6 @@ check out my [substack](https://gotdairyya.substack.com/) for more opinion-y pie
 {% include cv_publications.html data=site.data.otherpubs %}
 <br>
 
-### talks
-
-{% include cv_publications.html data=site.data.talks %}
-
-<br>
-
-### workshops
-
-{% include cv_publications.html data=site.data.workshops %}
-
-<br>
-
 ### service
 
 {% include cv_publications.html data=site.data.service %}
@@ -43,6 +31,18 @@ check out my [substack](https://gotdairyya.substack.com/) for more opinion-y pie
 ### reviewing
 
 {% include cv_publications.html data=site.data.reviewing %}
+
+<br>
+
+### talks
+
+{% include cv_publications.html data=site.data.talks %}
+
+<br>
+
+### interdisciplinary working groups
+
+{% include cv_publications.html data=site.data.workshops %}
 
 <br>
 
