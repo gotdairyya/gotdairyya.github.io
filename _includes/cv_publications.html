@@ -35,6 +35,9 @@
         <span>{{pub.authors}}</span><br>
         <span>{{pub.journal}} {{pub.year}}</span><br>
         <span>{{pub.links}}</span>
+        {% if pub.award %}
+        <br><span><mark>{{pub.award}}</mark></span>
+        {% endif %}
     </div>
     {% if pub.image %}
     <div class="col">
