@@ -34,10 +34,10 @@
         <bold>{{pub.title}}</bold><br>
         <span>{{pub.authors}}</span><br>
         <span>{{pub.journal}} {{pub.year}}</span><br>
-        <span>{{pub.links}}</span>
         {% if pub.award %}
-        <br><span><mark>{{pub.award}}</mark></span>
+        <span style="background-color: rgb(242, 255, 182)">{{pub.award}}</span><br>
         {% endif %}
+        <span>{{pub.links}}</span>
     </div>
     {% if pub.image %}
     <div class="col">
