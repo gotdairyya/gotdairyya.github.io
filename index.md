@@ -18,7 +18,7 @@ currently looking for assistant professor roles (& postdocs) in Europe
 
 ## thinking about...
 
-- applying critical & feminist theory + visualization
+- ethical visualizations
 - communicating science research
 - understanding how data became important
 - learning Swedish
@@ -34,9 +34,9 @@ currently looking for assistant professor roles (& postdocs) in Europe
 
 ✉ derya.akbaba at liu dot se
 
-𓅮 [@gotdairyya](https://twitter.com/gotdairyya)
+⋆｡˚ member of [VID lab](https://visidlab.github.io/)
 
-Ⓜ [b/c elon musk ruins everything](https://mastodon.social/@gotdairyya)
+🦋 [b/c elon musk ruins everything](https://bsky.app/profile/gotdairyya.bsky.social)
 
 📖 [i like books](https://www.goodreads.com/user/show/63729092-derya)
 
@@ -46,6 +46,6 @@ currently looking for assistant professor roles (& postdocs) in Europe
 
 ## past
 
-☼ Masters, Computing @ [University of Utah](https://www.sci.utah.edu/the-institute.html), 2022
+☼ Masters, Computing @ U. of Utah, [VDL lab](https://vdl.sci.utah.edu/), 2022
 
 ☃ BSc, Industrial & Labor Relations @ [Cornell](https://www.ilr.cornell.edu/), 2013
