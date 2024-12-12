@@ -4,63 +4,96 @@
   year: Sept 2021
   date: 9-2021
   country: USA
-- title: "Troubling Collaboration: Matters of Care in Visualization Design Study"
+  order: 1
+- title: "Staying with the Trouble: Applying Feminism to Visualization Research"
   organization: HCDS group & hdilab @ ITU Copenhagen
   year: May 2023
   date: 5-2023
   country: Denmark
-- title: "Staying with the trouble: Applying feminism to visualisation research"
+  order: 4
+- title: "Staying with the Trouble: Applying Feminism to Visualization Research"
   organization: HCC group & Women in Science @ King's College
   year: Nov 2023
   date: 11-2023
   country: UK
-- title: "Staying with the trouble: Applying feminism to visualisation research"
+  order: 4
+- title: "Staying with the Trouble: Applying Feminism to Visualization Research"
   organization: giCentre @ City, University of London
   year: Nov 2023
   date: 11-2023
   country: UK
-- title: "Staying with the trouble: Applying feminism to visualisation research"
+  order: 4
+- title: "Staying with the Trouble: Applying Feminism to Visualization Research"
   organization: CIM @ University of Warwick
   year: Nov 2023
   date: 11-2023
   country: UK
+  order: 4
 - title: Feminist Data Visualization
   organization: Beautiful Data @ Graphic Hunters
   country: virtual
   year: Feb 2024
   date: 2-2024
+  order: 3
 - title: Data Empowerment
   organization: Östergötlands Stadsmission
   country: Sweden
   year: Aug 2024
   date: 8-2024
+  order: 5
 - title: "Staying with the Trouble: Applying Feminism to Visualization Research"
   organization: VDL @ University of Utah
   country: USA
   year: Oct 2024
   date: 10-2024
+  order: 4
 - title: "Staying with the Trouble: Applying Feminism to Visualization Research"
   organization: Atlanta Interdisciplinary Artificial Intelligence Network @ Emory University
   country: USA
   year: Oct 2024
   date: 11-2024
+  order: 4
 - title: "Entanglements for Visualization: Changing Research Outcomes through Feminist Theory"
   organization: Best Paper Session @ IEEE VIS
   country: virtual
   year: Oct 2024
   date: 12-2024
+  video: VIS24
+  link: https://www.youtube.com/watch?v=d-eG7NRcrKg
+  order: 6
 - title: "Are visualizations haunted?"
   organization: Cest‑la‑viz Conference
   country: the Netherlands
   year: Nov 2024
   date: 13-2024
-- title: "Responsible Computing: Sketching a different future for vis research"
+  video: CLV24
+  link: https://youtu.be/gZW4cX0uFUk?feature=shared&t=2277
+  order: 7
+- title: "Staying with the Trouble: Applying Feminism to Visualization Research"
   organization: VIS Cluster @ TU Eindhoven
   country: the Netherlands
   year: Nov 2024
   date: 15-2024
-- title: "Responsible Computing: Sketching a different future for vis research"
+  order: 4
+- title: "Staying with the Trouble: Applying Feminism to Visualization Research"
   organization: VIG @ TU Eindhoven
   country: the Netherlands
   year: Nov 2024
   date: 14-2024
+  order: 4
+- title: "Exploring New Threads in Visualization Research"
+  organization: FFF & Vis @ KTH
+  country: Sweden
+  year: Dec 2024
+  date: 15-2024
+  video: KTH24
+  link: https://play.kth.se/media/Fancy+Formal+Friday+%E2%80%93+Derya+Akbaba/0_wqni4o4o/403188
+  order: 10
+- title: "Troubling Collaboration: Matters of Care in Visualization Design Study"
+  organization: CHI
+  year: April 2023
+  date: 3-2023
+  country: Germany
+  video: CHI23
+  link: https://youtu.be/-gVr7V2-txM?feature=shared
+  order: 2

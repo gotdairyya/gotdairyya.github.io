@@ -1,13 +1,18 @@
 <!-- TALKS -->
 {% if include.data == site.data.talks %}
 {% assign talks_grouped = include.data | group_by: 'title' %}
-{% assign talks_grouped = talks_grouped | sort: 'year' %}
-{% for talks in talks_grouped reversed %}
+{% assign talks_grouped = talks_grouped | sort: 'date' %}
+{% for talks in talks_grouped %}
 <div class="row" style="margin-bottom: 10;">
     <div class="col">
         <bold>{{talks.name}}</bold><br>
         {% for talk in talks.items %}
         <span>{{talk.organization}}, {{talk.year}}</span><br>
+        {% endfor %}
+        {% for talk in talks.items %}
+        {% if talk.video %}
+        <span><a href="{{talk.link}}">{{talk.video}} </a></span>
+        {% endif %}
         {% endfor %}
     </div>
 </div>
