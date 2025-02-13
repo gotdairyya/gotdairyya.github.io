@@ -38,7 +38,7 @@ currently looking for assistant professor roles (& postdocs) in Europe
 
 🦋 [b/c elon musk ruins everything](https://bsky.app/profile/gotdairyya.bsky.social)
 
-📖 [i like books](https://www.goodreads.com/user/show/63729092-derya)
+📖 [i like books](https://app.thestorygraph.com/profile/gotdabooks)
 
 💾 [a list of lists about data vis](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_SZmjPfMUKl9SvwmWno80SdKGW6MNk_BDux0oAnl3KRAeUWZtCGtV1O_Uc-r5SuKBhljZaWlAhmj7/pubhtml)
 
