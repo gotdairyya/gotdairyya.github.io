@@ -7,10 +7,9 @@ hi! my name is derya
 
 <p>pronounced in english: dairy-ya<br>
 pronouns in english: she/her/hers<br>
-
-currently looking for assistant professor roles (& postdocs) in Europe
-
 </p>
+
+_currently looking for academic research positions starting Fall 2025 in Europe_ -- you can find my CV [here](/assets/images/Akbaba-CV.pdf)
 
 <section id="about-me" markdown=1>
 
