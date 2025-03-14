@@ -6,13 +6,13 @@
 {% for pub in site.data.publications %}
 {% assign allpubs = allpubs | push: pub %}
 {% endfor %}
-{% for pub in site.data.shortpubs %}
+<!-- {% for pub in site.data.shortpubs %}
 {% assign allpubs = allpubs | push: pub %}
-{% endfor %}
+{% endfor %} -->
 
 {% assign sorted = allpubs | sort: 'date' | reverse %}
-{% for pub in sorted limit:4 %}
-<span><strong>{{pub.title}}</strong></span><br>
+{% for pub in sorted limit:3 %}
+{{pub.title}}<br>
 <span>{{pub.authors}}</span><br>
 <span>{{pub.journal}}, {{pub.year}}</span><br>
 <span>{{pub.links}}</span>
