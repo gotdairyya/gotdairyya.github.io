@@ -2,10 +2,10 @@
 - venue: <a href="https://informationplusconference.com/2023">Info+ Conference</a>
   year: 2023
   role: Communication, Design Co-Chair
-- venue: <a href="https://altvis.github.io">alt.vis</a>
+- venue: <a href="https://altvis.github.io">alt.vis, VIS Workshop</a>
   year: 2023
   role: Organizing Committee
-- venue: <a href="https://altvis.github.io">alt.vis</a>
+- venue: <a href="https://altvis.github.io">alt.vis, VIS Workshop</a>
   year: 2022
   role: Organizing Committee
 - venue: <a href="https://eyeofestival.com/">Eyeo Festival</a>
@@ -17,7 +17,7 @@
 - venue: College of Engineering Diversity Committee, U. of Utah
   year: 2020
   role: Grad Representative
-- venue: "<a href='https://visionsofthefuture.github.io/'>VISions of the Future: Workshop on Sustainable Practices within Visualization and Physicalisation</a>"
+- venue: "<a href='https://visionsofthefuture.github.io/'>VISions of the Future: Sustainable Practices within Visualization, VIS Workshop</a>"
   year: 2024
   role: Organizing Committee
 - venue: <a href="https://www.computer.org/digital-library/magazines/cg/critical-data-visualization">CG&A Special Issue on Critical Data Visualization</a>
@@ -26,3 +26,12 @@
 - venue: <a href="https://event.sdu.dk/eurovis">EuroVis</a>
   year: 2024
   role: Student Volunteer
+- venue: <a href="https://visap.net/2025/index.html">VISAP, VIS Co-Event</a>
+  year: 2025
+  role: Program Committee
+- venue: <a href="https://inputvisualization.github.io/vis2025/">Input Visualization, VIS Workshop</a>
+  year: 2025
+  role: Organizing Committee
+- venue: <a href="https://beatricevincenzi.com/byob-workshop-dis25.html">Bring Your Own Biodata (BYOB), DIS Workshop</a>
+  year: 2025
+  role: Organizing Committee
