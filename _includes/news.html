@@ -14,8 +14,12 @@
 {% for pub in sorted limit:3 %}
 {{pub.title}}<br>
 <span>{{pub.authors}}</span><br>
-<span>{{pub.journal}}, {{pub.year}}</span><br>
-<span>{{pub.links}}</span>
+<span>{{pub.journal}}, {{pub.year}}</span>
+{% if pub.award %}
+<br><span>{{pub.award}}</span>
+{% endif %}
+<br><span>{{pub.links}}</span>
+
 
 <br>
 <br>
