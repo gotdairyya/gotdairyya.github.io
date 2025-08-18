@@ -1,7 +1,8 @@
 <!-- TALKS -->
 {% if include.data == site.data.talks %}
-{% assign talks_grouped = include.data | group_by: 'title' %}
-{% assign talks_grouped = talks_grouped | sort: 'date' %}
+{% assign talks_sorted = include.data | sort: 'order' | reverse %}
+{% assign talks_grouped = talks_sorted | group_by: 'title' %}
+
 {% for talks in talks_grouped %}
 <div class="row" style="margin-bottom: 10;">
     <div class="col">
