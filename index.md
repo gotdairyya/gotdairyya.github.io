@@ -9,7 +9,8 @@ hi! my name is derya
 pronouns in english: she/her/hers<br>
 </p>
 
-_currently looking for academic research positions starting Fall 2025 in Europe_ -- you can find my CV [here](/assets/images/Akbaba-CV.pdf)
+recently defended my PhD, Sept 2025<br>
+[Shifting Perspectives: Conducting Visualization Research with Entanglement Epistemology](https://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1961948&dswid=7500)
 
 <section id="about-me" markdown=1>
 
@@ -29,13 +30,9 @@ _currently looking for academic research positions starting Fall 2025 in Europe_
 
 ## present
 
-✏ Doktorand, Science & Technology @ Linköping University
+✏ Linköping University
 
 ✉ derya.akbaba at liu dot se
-
-⋆｡˚ member of [VID lab](https://visidlab.github.io/)
-
-🦋 [b/c elon musk ruins everything](https://bsky.app/profile/gotdairyya.bsky.social)
 
 📖 [i like books](https://app.thestorygraph.com/profile/gotdabooks)
 
@@ -44,6 +41,8 @@ _currently looking for academic research positions starting Fall 2025 in Europe_
 <br>
 
 ## past
+
+⋆｡ PhD, Computing (Media & Information Technology) @ Linköping Univeristy, [VID lab](https://visidlab.github.io/), [WASP Funded](https://wasp-sweden.org/), 2025
 
 ☼ Masters, Computing @ U. of Utah, [VDL lab](https://vdl.sci.utah.edu/), 2022
 
