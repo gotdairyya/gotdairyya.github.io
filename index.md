@@ -32,7 +32,7 @@ recently defended my PhD, Sept 2025<br>
 
 ✏ Linköping University
 
-✉ derya.akbaba at liu dot se
+✉ gotdairyya at gmail dot com
 
 📖 [i like books](https://app.thestorygraph.com/profile/gotdabooks)
 
