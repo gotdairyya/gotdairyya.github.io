@@ -30,9 +30,9 @@ recently defended my PhD, Sept 2025<br>
 
 ## present
 
-✏ Linköping University
+✏ KTH Royal Institute of Technology
 
-✉ gotdairyya at gmail dot com
+✉ akbaba at kth dot se
 
 📖 [i like books](https://app.thestorygraph.com/profile/gotdabooks)
 
