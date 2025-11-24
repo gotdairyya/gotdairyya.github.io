@@ -9,9 +9,6 @@ hi! my name is derya
 pronouns in english: she/her/hers<br>
 </p>
 
-recently defended my PhD, Sept 2025<br>
-[Shifting Perspectives: Conducting Visualization Research with Entanglement Epistemology](https://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1961948&dswid=7500)
-
 <section id="about-me" markdown=1>
 
 ![photo of me with my cat fig](/assets/images/me.png){:#photo}
