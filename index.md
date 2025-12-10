@@ -15,10 +15,9 @@ pronouns in english: she/her/hers<br>
 
 ## thinking about...
 
-- ethical visualizations
-- communicating science research
-- understanding how data became important
-- learning Swedish
+- missing data
+- participatory methods
+- the invisible infrastructure of language
 - hanging out with my cat Fig
 
 </section>
@@ -34,6 +33,18 @@ pronouns in english: she/her/hers<br>
 📖 [i like books](https://app.thestorygraph.com/profile/gotdabooks)
 
 💾 [a list of lists about data vis](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_SZmjPfMUKl9SvwmWno80SdKGW6MNk_BDux0oAnl3KRAeUWZtCGtV1O_Uc-r5SuKBhljZaWlAhmj7/pubhtml)
+
+<br>
+
+## let's work together!
+research is fun when it is done together ✶⋆.˚ <br>
+I am open to: collaborating, chit-chatting, and supervising topics on: <br>
+&emsp;⊹ ࣪˖ participatory VIS & HC(A)I<br>
+⋆˚࿔ data physicalization <br>
+&emsp; ✮⋆˙input visualizations<br>
+₊⊹ visualization theory<br>
+&emsp;⋆𖦹⭒ feminist vis<br> 
+and other topics at the intersection of tech x society more broadly
 
 <br>
 
