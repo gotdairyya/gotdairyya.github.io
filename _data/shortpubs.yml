@@ -1,12 +1,4 @@
 ---
-- title: "'Two Heads are Better than One': Pair-Interviews for Visualization"
-  authors: Derya Akbaba, Miriah Meyer
-  journal: IEEE Transactions on Visualization and Computer Graphics
-  year: 2023
-  date: 2023-10
-  links: <a href="https://ieeexplore.ieee.org/document/10360901">paper</a> <a
-    href="https://gotdairyya.github.io/pair-interview-primer/mechanics/">supplemental material</a>
-  image: 2023-pairinterviews.png
 - title: Manifesto for Putting 'Chartjunk' in the Trash 2021!
   authors: Derya Akbaba, Jack Wilburn, Main T. Nance, Miriah Meyer
   journal: alt.VIS, a workshop co-located with IEEE VIS
@@ -21,23 +13,29 @@
   journal: Information+ Conference
   year: 2023
   date: 2023-11
-  links: <a href="https://informationplusconference.com/2023/">conference</a> <a href="https://viscollective.github.io/publications/2023_infoplus_trace/">abstract</a>
+  links: <a href="https://informationplusconference.com/2023/">conference</a> <a href="https://vimeo.com/935141329">talk</a>
 - title: Reflections on applying feminist theory to visualization research
   authors: Derya Akbaba, Lauren Klein, Miriah Meyer
   journal: Information+ Conference
   year: 2021
   date: 2021-11
-  links: <a href="https://informationplusconference.com/2021/">conference</a> <a href="https://viscollective.github.io/publications/2021_infoplus_feminist/">abstract</a> <a href="https://vimeo.com/592256059">⚡ talk</a>
+  links: <a href="https://informationplusconference.com/2021/">conference</a> <a href="https://vimeo.com/592256059">⚡ talk</a>
   image: 2021-infoplus.png
 - title: "words matter || mattering words"
   authors: Derya Akbaba
   journal: "CSCW Workshop. A Toolbox of Feminist Wonder: Theories and methods that can make a difference"
   year: 2023
-  date: 2023-09
+  date: 2023-12
   links: <a href="https://blogg.sh.se/a-toolbox-of-feminist-wonder/">workshop</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3584931.3611295">proceedings</a>
-- title: "A speculative feminist knowledge elicitation system"
-  authors: "Derya Akbaba*, Eirini Kaklopoulou *"
-  journal: "Workshop at AI for Humanity and Society"
-  year: 2023
-  date: 2023-11
-  links: <a href="https://wasp-hs.org/event/ai-for-humanity-and-society-2023/">workshop</a> *both authors contributed equally
+- title: "Bring Your Own Biodata (BYOB): Feminist, Corporeal and Collective Approaches to Datafied Bodies"
+  authors: "Beatrice Vincenzi, Nadia Campo Woytuk, Alejandra Gómez Ortega, Kim Sauvé, Laura Forlano, Derya Akbaba, Edda Forero, Samuel Thulin, Pedro Sanches, Kit Kuksenok"
+  journal: "Companion Publication of the 2025 ACM Designing Interactive Systems Conference"
+  year: 2025
+  date: 2025-07
+  links: <a href="https://doi.org/10.1145/3715668.3734162">workshop</a>
+- title: "Interaction Design as a Form of Decolonial Care"
+  authors: "Tania Villalobos Lujan, Pratim Sengupta, Derya Akbaba, Sofia Alessio-Robles, Amelia Lee Dogan, Monica Meltis, Firuzeh Shokooh Valle, Lora Oehlberg"
+  journal: "Proceedings of the 2025 Conference on Creativity and Cognition"
+  year: 2025
+  date: 2025-06
+  links: <a href="https://dl.acm.org/doi/10.1145/3698061.3728395">workshop</a>

@@ -10,14 +10,12 @@ pdf version [here](/assets/images/Akbaba-CV.pdf)
 {% include cv_publications.html data=site.data.publications %}
 <br>
 
-### peer-reviewed abstracts + short papers
+### peer-reviewed abstracts + workshop papers
 
 {% include cv_publications.html data=site.data.shortpubs %}
 <br>
 
-### non-academic publications
-
-check out my [substack](https://gotdairyya.substack.com/) for more opinion-y pieces
+### reports, editor letters, science communication
 
 {% include cv_publications.html data=site.data.otherpubs %}
 <br>
@@ -40,11 +38,7 @@ check out my [substack](https://gotdairyya.substack.com/) for more opinion-y pie
 
 <br>
 
-### interdisciplinary working groups
 
-{% include cv_publications.html data=site.data.workshops %}
-
-<br>
 
 ### teaching
 
@@ -58,15 +52,22 @@ check out my [substack](https://gotdairyya.substack.com/) for more opinion-y pie
 
 <br>
 
-<!-- ## outreach
+### non-university teaching
 
-I find it important to find different ways to share research outside of academia.
-So far I give myself a 2/5 at my attempts.
+A important aspect of my pedagogical philosophy is to extend my teaching efforts outside of traditional university walls. I do this through workshops and seminars with non-profit organizations and professional groups, reaching a wide range of age groups and communities.
 
-|          |     |                                                                                                                              |
-| -------- | --- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **2022** |     | [**SHETech Explorer Day**](https://shetechexplorer.com/)                                                                     |
-|          |     | [Data Portraits](https://observablehq.com/@gotdairyya/data-portraits-for-shetech) for young girls to consider future in STEM |
-|          |     |                                                                                                                              |
-| **2020** |     | [**VDL Blog**](https://vdl.sci.utah.edu/blog/)                                                                               |
-|          |     | Started blog to make research papers more accessible.                                                                        | -->
+{% assign workshops = site.data.workshops | sort: "year" %}
+{% for class in workshops reversed %}
+<bold>{{class.title}}</bold>
+<span>{{class.organization}}</span><br>
+<span>{{class.country}}, {{class.when}}</span>
+
+{% endfor %}
+
+<!-- {% assign workshops = site.data.workshops | sort: "year" %}
+{% for class in workshops reversed %}
+<bold>{{class.role}}</bold>
+<span>{{class.course}}</span><br>
+<span>{{class.school}}, {{class.semester}}</span>
+
+{% endfor %} -->

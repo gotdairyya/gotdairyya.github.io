@@ -1,16 +1,16 @@
 ---
-- venue:
-  year: "Full Papers ('22, '23, '24'), alt.vis ('22, '23)"
+- venue: "Full Papers ('22, '23, '24'), alt.vis ('22, '23)"
+  year: 
   role: IEEE VIS
-- venue:
-  year: "Full Papers ('25)"
-  role: ACM DIS
-- venue:
-  year: "Full Papers ('26, '25), alt.chi ('25)"
+- venue: "Full Papers ('26, '25), alt.chi ('25)"
+  year: 
   role: ACM CHI
-- venue:
-  year: "Journal ('25, '23)"
+- venue: "Full Papers ('25)"
+  year: 
+  role: ACM DIS
+- venue: "Journal ('25, '23)"
+  year: 
   role: TVCG
-- venue:
-  year: "Journal ('24)"
+- venue: "Journal ('25, '24)"
+  year: 
   role: Frontiers

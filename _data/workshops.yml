@@ -1,46 +1,31 @@
----
-- title: "Visualization and the Humanities: Towards a Shared Research Agenda"
-  authors: <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23381">Dagstuhl Seminar</a>
-  journal: Schloss Dagstuhl, Germany
-  year: 2023
-  date: 9-2023
-- title: STEM Ambassador, Spring Cohort
-  authors: <a href="https://stemap.org/">STEM Ambassador Program</a>
-  journal: Salt Lake City, Utah
+
+- title: Feminist Data Visualization
+  organization: Graphic Hunters Beautiful Data Series
+  when: S2024
+  year: 2024
+  country: the Netherlands, virtual
+- title: Data Crafting for Empowerment & Expression
+  organization: Östergötlands Stadsmission
+  when: S2024
+  year: 2024
+  country: Sweden
+- title: Data Crafting for Team Leaders
+  organization: Östergötlands Stadsmission
+  when: F2024
+  year: 2024
+  country: Sweden
+- title: Data Crafting for Young Children
+  organization: Visualiseringscenter C
+  when: S2024
+  year: 2024
+  country: Sweden 
+- title: Mapping as a Social Science Method
+  organization: Maastricht University
+  when: F2025
+  year: 2025
+  country: the Netherlands
+- title: Introduction to Data Science
+  organization: SHETech Explorer Day, Women Tech Council
+  when: S2022
+  country: USA
   year: 2022
-  date: 1-2022
-- title: Grad Cohort for Women
-  authors: <a href="https://cra.org/cra-wp/">CRA-WP</a>
-  journal: virtual
-  year: 2021
-  date: 1-2021
-- title: Workshop Participant
-  authors: <a href="https://comscicon.com/comscicon-2020-flagship-workshop">ComSciCon 2020 Flagship Workshop</a>
-  journal: virtual
-  year: 2020
-  date: 6-2020
-- title: Working Group Member
-  authors: <a href="http://wg20.criticalcodestudies.com/">Critical Code Studies</a>
-  journal: virtual
-  year: 2020
-  date: 1-2020
-- title: Code, Paper, Scissor Cohort
-  authors: <a href="https://sfpc.io/code-paper-scissors/">School for Poetic Computation</a>
-  journal: New York, New York
-  year: 2019
-  date: 1-2019
-- title: "NORDES Summer School: Socio-ecologically Just Design after Progress"
-  authors: <a href="https://nordes.org/">NORDES</a>
-  journal: Norrköping, Sweden
-  year: 2024
-  date: 8-2024
-- title: "Digital STS Hub Working Group"
-  authors: <a href="https://www.chalmers.se/en/departments/tme/research/science-technology-and-society/the-digital-sts-hub/">The Digital STS Hub</a>
-  journal: Sweden
-  year: 2024
-  date: 1-2024
-- title: "Feminist Wonder Working Group"
-  authors: <a href="https://blogg.sh.se/a-toolbox-of-feminist-wonder/">A Toolbox of Feminist Wonder</a>
-  journal: virtual
-  year: 2024
-  date: 1-2024

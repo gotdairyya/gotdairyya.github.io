@@ -47,3 +47,11 @@
   image:
   award: 🥛 2025 VIS Honorable Mention
   project: praxis
+- title: "'Two Heads are Better than One': Pair-Interviews for Visualization"
+  authors: Derya Akbaba, Miriah Meyer
+  journal: IEEE Transactions on Visualization and Computer Graphics
+  year: 2023
+  date: 2023-10
+  links: <a href="https://ieeexplore.ieee.org/document/10360901">paper</a> <a
+    href="https://gotdairyya.github.io/pair-interview-primer/mechanics/">supplemental material</a>
+  image: 2023-pairinterviews.png
