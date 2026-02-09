@@ -40,10 +40,10 @@
   project: design
 - title: "Here’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis"
   authors: Haihan Lin, Maxim Lisnic, Derya Akbaba, Miriah Meyer, Alexander Lex
-  journal: (to appear) IEEE VIS 2025 Proceedings
+  journal: IEEE Transactions on Visualization and Computer Graphics
   year: 2025
-  date: 2025-10
-  links: <a href="https://osf.io/dn32z_v1">preprint</a>
+  date: 2025-01
+  links: <a href="https://ieeexplore.ieee.org/abstract/document/11293215">paper</a>
   image:
   award: 🥛 2025 VIS Honorable Mention
   project: praxis

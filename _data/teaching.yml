@@ -4,7 +4,7 @@
   semester: S20
   role: Teaching Assistant
 - school: University of Utah
-  course: "Advised: Pranav Rajan"
+  course: "Pranav Rajan"
   year: 2021
   semester: S21
   role: Bachelors Thesis Advisor
@@ -19,7 +19,7 @@
   semester: F23
   role: Critical Perspectives in Visualization Seminar
 - school: Linköping University
-  course: "Advised: Camilla Svensson & Claudia Torelli"
+  course: "Camilla Svensson & Claudia Torelli"
   year: 2024
   semester: S24
   role: Master Thesis Advisor
@@ -28,3 +28,8 @@
   year: 2024
   semester: F24, F25
   role: Applications of Feminist Theory Seminar
+- school: KTH Royal Institute of Technology
+  course: "Omar Yair Ríos Trejo & Tomass Wilson"
+  year: 2026
+  semester: S26
+  role: Master Thesis Advisor
