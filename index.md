@@ -9,6 +9,9 @@ hi! my name is derya
 pronouns in english: she/her/hers<br>
 </p>
 
+₊⊹ currently searching for assistant professor positions (Vis/HCI) in the EU ⊹₊
+
+
 <section id="about-me" markdown=1>
 
 ![photo of me with my cat fig](/assets/images/me.png){:#photo}
@@ -17,7 +20,6 @@ pronouns in english: she/her/hers<br>
 
 - missing data
 - participatory methods
-- the invisible infrastructure of language
 - hanging out with my cat Fig
 
 </section>
