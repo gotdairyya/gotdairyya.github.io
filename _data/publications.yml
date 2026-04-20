@@ -55,3 +55,24 @@
   links: <a href="https://ieeexplore.ieee.org/document/10360901">paper</a> <a
     href="https://gotdairyya.github.io/pair-interview-primer/mechanics/">supplemental material</a>
   image: 2023-pairinterviews.png
+- title: "Reflections on Traceability for Visualization Research"
+  authors: Jen Rogers, Derya Akbaba, James Scott-Brown, Alexander Lex, Miriah Meyer
+  journal: Computer Graphics Forum (EuroVis)
+  year: 2026
+  date: 2026-07
+  links: <a href="https://arxiv.org/abs/2604.14417">preprint</a>
+  image: 
+- title: "Thinking Inside the Box: Considerations for Putting Data Physicalization Workshops in a Box"
+  authors: Derya Akbaba, Camilla Svensson, Claudia Torelli, Martin Callmeryd, Miriah Meyer
+  journal: Computer Graphics Forum (EuroVis)
+  year: 2026
+  date: 2026-08
+  links: <a href="https://osf.io/sxv5w/files/2r96f">preprint</a>
+  image:
+- title: "Designing Vibes in a Science Museum: from @Science to @🤗"
+  authors: Derya Akbaba, Daniela Paz Moyano Dávila, Måns Gezelius, Yin He, Miriah Meyer
+  journal: Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS '26) (to appear)
+  year: 2026
+  date: 2026-09
+  links: 
+  image: 
