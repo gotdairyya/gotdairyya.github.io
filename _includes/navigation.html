@@ -1,14 +1,27 @@
 <nav class="navbar">
-    <div class="container" role="navigation">
-        <a class="navbar-brand" href="https://gotdairyya.github.io/">
+    <div class="container-fluid" role="navigation">
+        <!-- <a class="navbar-brand" href="https://gotdairyya.github.io/">
             <img src="assets/images/milk.png" alt="pixelated milk" height="60" width="auto" class="d-inline-block">
-        </a>
+        </a> -->
+        <div class="container-fluid">
+        <div class="d-flex align-items-center">
+  <div class="flex-shrink-0">
+    <img src="assets/images/milk.png" alt="pixelated milk" height="60" width="auto" class="d-inline-block">
+    </div>
+    <div class="flex-grow-1 ms-3">
+    <h1 id="name"><a href="https://gotdairyya.github.io/">Derya Akbaba</a></h1></div></div>
+        <div class="container-fluid">
+        <p class="fw-bold">PostDoctoral Researcher</p>
+        <span>Dept. Computing and Learning Systems</span><br>
+        <span>KTH Royal Institute of Technology</span>
+        </div>
         <ul class="nav">
             {% for item in site.data.navigation %}
+            <div class="container-fluid">
             <li class="nav-item">
-                <a class="nav-link" href="{{ item.link }}" {% if page.url==item.link %} {% endif %}>
-                    {{ item.name }}
-                </a>
+                <h4><a class="nav-link" href="{{ item.link }}" {% if page.url==item.link %} {% endif %}>
+                    ↪ {{ item.name }}
+                </a></h4></li></div>
                 {% endfor %}
             </li>
         </ul>
