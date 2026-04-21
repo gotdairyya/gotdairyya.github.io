@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "Derya Akbaba",
-  "license": "MIT",
-  "devDependencies": {
-    "prettier": "^3.0.0"
-  }
+  "license": "MIT"
 }
