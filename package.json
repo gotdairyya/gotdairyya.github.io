@@ -1,0 +1,15 @@
+{
+  "name": "gotdairyya-website",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.md",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "Derya Akbaba",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
