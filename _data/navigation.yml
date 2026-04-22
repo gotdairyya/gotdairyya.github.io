@@ -1,7 +1,9 @@
 ---
 - link: /
   name: about
+- link: /
+  name: projects
 - link: /cv.html
-  name: c.v.
-- link: https://gotdairyya.substack.com/
-  name: thoughts
+  name: publications
+- link: /talks.html
+  name: talks

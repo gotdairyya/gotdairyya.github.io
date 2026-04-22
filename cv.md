@@ -1,6 +1,6 @@
 ---
 layout: default
-title: c.v.
+title: 
 ---
 
 pdf version [here](/assets/images/Akbaba-CV.pdf)
@@ -20,7 +20,7 @@ pdf version [here](/assets/images/Akbaba-CV.pdf)
 {% include cv_publications.html data=site.data.otherpubs %}
 <br>
 
-### service
+<!-- ### service
 
 {% include cv_publications.html data=site.data.service %}
 
@@ -36,11 +36,11 @@ pdf version [here](/assets/images/Akbaba-CV.pdf)
 
 {% include cv_publications.html data=site.data.talks %}
 
-<br>
+<br> -->
 
 
 
-### teaching
+<!-- ### teaching
 
 {% assign teaching = site.data.teaching | sort: "year" %}
 {% for class in teaching reversed %}
@@ -62,7 +62,7 @@ A important aspect of my pedagogical philosophy is to extend my teaching efforts
 <span>{{class.organization}}</span><br>
 <span>{{class.country}}, {{class.when}}</span>
 
-{% endfor %}
+{% endfor %} -->
 
 <!-- {% assign workshops = site.data.workshops | sort: "year" %}
 {% for class in workshops reversed %}

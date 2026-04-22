@@ -15,13 +15,13 @@
         <span>Dept. Computing and Learning Systems</span><br>
         <span>KTH Royal Institute of Technology</span>
         </div>
+        <br>
         <ul class="nav">
             {% for item in site.data.navigation %}
-            <div class="container-fluid">
             <li class="nav-item">
-                <h4><a class="nav-link" href="{{ item.link }}" {% if page.url==item.link %} {% endif %}>
+                <h3><a class="nav-link" href="{{ item.link }}" {% if page.url==item.link %} {% endif %}>
                     ↪ {{ item.name }}
-                </a></h4></li></div>
+                </a></li></h3>
                 {% endfor %}
             </li>
         </ul>
