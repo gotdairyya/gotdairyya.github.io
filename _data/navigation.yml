@@ -1,9 +1,7 @@
 ---
 - link: /
   name: about
-- link: /
+- link: /projects.html
   name: projects
-- link: /publications.html
-  name: publications
 - link: /talks.html
   name: talks

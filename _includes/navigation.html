@@ -3,19 +3,25 @@
         <!-- <a class="navbar-brand" href="https://gotdairyya.github.io/">
             <img src="assets/images/milk.png" alt="pixelated milk" height="60" width="auto" class="d-inline-block">
         </a> -->
-        <div class="container-fluid">
-        <div class="d-flex align-items-center">
-  <div class="flex-shrink-0">
-    <img src="assets/images/milk.png" alt="pixelated milk" height="60" width="auto" class="d-inline-block">
-    </div>
-    <div class="flex-grow-1 ms-3">
-    <h1 id="name"><a href="https://gotdairyya.github.io/">Derya Akbaba</a></h1></div></div>
-        <div class="container-fluid">
-        <p class="fw-bold">PostDoctoral Researcher</p>
-        <span>Dept. Computing and Learning Systems</span><br>
-        <span>KTH Royal Institute of Technology</span>
-        </div>
-        <br>
+        <!-- <div class="container-fluid"> -->
+            <div class="d-flex align-items-center">
+                <div class="flex-shrink-0">
+                    <img src="assets/images/milk.png" alt="pixelated milk" height="60" width="auto" class="d-inline-block">
+                </div>
+                <div class="flex-grow-1 ms-3">
+                    <h1 id="name"><a href="https://gotdairyya.github.io/">Derya Akbaba</a></h1>
+                </div>
+            </div>
+            <div class="flex-grow-1 ms-3">
+                    <img src="/assets/images/me.png" alt="picture of me holding my cat Fig" class="img-fluid" width="60%">
+            </div>
+            <div class="container-fluid">
+                <strong>PostDoctoral Researcher</strong><br>
+                <span>Dept. Computing and Learning Systems</span><br>
+                <span>KTH Royal Institute of Technology</span><br>
+                <span>✉ gotdairyya (at) gmail (dot) com</span>
+            </div>
+             <br>
         <ul class="nav">
             {% for item in site.data.navigation %}
             <li class="nav-item">
@@ -25,5 +31,10 @@
                 {% endfor %}
             </li>
         </ul>
+        
+        <div class="container-fluid">
+            <h4>News</h4>
+            {% include news.html %}
+        </div>
     </div>
 </nav>
