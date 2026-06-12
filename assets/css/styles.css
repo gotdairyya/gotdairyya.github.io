@@ -43,6 +43,14 @@ span {
   font-family: "Darker Grotesque", sans-serif;
 }
 
+.nav-link {
+  font-size: 2em;
+}
+
+.nav-link {
+  font-size: 2em;
+}
+
 /* BUTTONS */
 button {
   padding-left: 0;
@@ -66,11 +74,20 @@ a:hover {
   text-decoration-style: wavy;
 }
 
+
 #name > a {
   text-decoration: none;
 }
 
 #name > a:hover {
+  text-decoration-skip-ink: none;
+  text-decoration: underline;
+  background-color: none;
+  text-decoration-style: wavy;
+}
+
+/* NEED TO FIX THIS!!! */
+.navbar > .nav > .nav-item > .nav-link:active {
   text-decoration-skip-ink: none;
   text-decoration: underline;
   background-color: none;
