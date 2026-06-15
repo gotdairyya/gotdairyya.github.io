@@ -16,14 +16,18 @@
 
 /* TEXT */
 h1 {
-  font-family: "Indie Flower";
+  font-family: "Darker Grotesque", sans-serif;
   color: DarkSlateGray;
 }
 
 h2 {
-  font-family: "IBM Plex Mono", serif;
+  font-family: "Darker Grotesque", sans-serif;
   color: #575657;
-  letter-spacing: 0;
+}
+
+h3 {
+  font-family: "Darker Grotesque", sans-serif;
+  color: #453b45;
 }
 
 #name {
@@ -96,11 +100,11 @@ a:hover {
 
 /* ABOUT PAGE */
 #photo {
-  width: 20%;
+  width: 30%;
   float: left;
   display: inline;
-  margin-right: 25pt;
-  margin-top: 25pt;
+  margin-right: 15pt;
+  margin-top: 15pt;
 }
 
 #about-me {
@@ -111,13 +115,12 @@ a:hover {
 
 @media only screen and (max-width: 600px) {
   #photo {
-    width: 70%;
-    float: left;
+    width: 100%;
     display: block;
-    margin: 25pt;
+    margin-bottom: 25pt;
   }
 
-  
+
 
   /*   body {
     padding-left: 0;
