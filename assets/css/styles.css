@@ -119,13 +119,12 @@ a:hover {
     display: block;
     margin-bottom: 25pt;
   }
+}
 
-
-
-  /*   body {
-    padding-left: 0;
-    padding-top: 200px; /* offset for top navbar height */
-  /* } */
+@media only screen and (max-width: 767px) {
+#newslist {
+    display: none;
+  }
 }
 
 .pub-image:hover {
