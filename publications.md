@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: publications
 ---
 
 pdf version [here](/assets/images/Akbaba-CV.pdf)

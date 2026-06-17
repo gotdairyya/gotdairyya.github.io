@@ -35,8 +35,8 @@
 {% else %}
 {% assign pubs = include.data | sort: "date" %}
 {% for pub in pubs reversed %}
-<div class="row" style="margin-bottom: 10;">
-    <div class="col-md-7">
+<div class="mb-4 row">
+    <div class="col-md-8">
         <bold>{{pub.title}}</bold><br>
         <span>{{pub.authors}}</span><br>
         <span>{{pub.journal}} {{pub.year}}</span><br>
@@ -46,7 +46,7 @@
         <span>{{pub.links}}</span>
     </div>
     {% if pub.image %}
-    <div class="col-md-2">
+    <div class="col-md-4">
         <img src="/assets/papers/{{pub.image}}" alt="Teaser image for publication. Shakes and dances on hover."
             class="img-fluid pub-image" style="max-width: 40%; height: auto;" />
     </div>
