@@ -3,7 +3,7 @@ layout: default
 title: publications
 ---
 
-pdf version [here](/assets/images/Akbaba-CV.pdf)
+pdf CV [here](/assets/images/Akbaba-CV.pdf)
 
 ### peer-reviewed conference publications
 
