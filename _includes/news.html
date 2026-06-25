@@ -1,14 +1,11 @@
-<br>
-<br>
+<!-- <br>
+<br> -->
 
-<h2>recent work</h2>
-{% assign allpubs = "" | split: "" %}
+<!-- <h2>recent work</h2> -->
+<!-- {% assign allpubs = "" | split: "" %}
 {% for pub in site.data.publications %}
 {% assign allpubs = allpubs | push: pub %}
 {% endfor %}
-<!-- {% for pub in site.data.shortpubs %}
-{% assign allpubs = allpubs | push: pub %}
-{% endfor %} -->
 
 {% assign sorted = allpubs | sort: 'date' | reverse %}
 {% for pub in sorted limit:3 %}
@@ -23,11 +20,11 @@
 
 <br>
 <br>
-{% endfor %}
+{% endfor %} -->
 
-<br>
+<!-- <br> -->
 
-<h2>news</h2>
+<!-- <h2>news</h2> -->
 {% assign news_collection = site.data.news | sort: 'date' | reverse %}
 {% for news in news_collection limit:3 %}
 <strong>{{news.date | date: "%b %Y"}}</strong> :: {{news.place}}

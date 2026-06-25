@@ -1,16 +1,49 @@
 <nav class="navbar">
-    <div class="container" role="navigation">
-        <a class="navbar-brand" href="https://gotdairyya.github.io/">
+    <div class="container-fluid" role="navigation">
+        <!-- <a class="navbar-brand" href="https://gotdairyya.github.io/">
             <img src="assets/images/milk.png" alt="pixelated milk" height="60" width="auto" class="d-inline-block">
-        </a>
-        <ul class="nav">
+        </a> -->
+        <!-- <div class="container-fluid"> -->
+            <div class="d-flex align-items-center">
+                <div class="flex-shrink-0">
+                    <img src="assets/images/milk.png" alt="pixelated milk" height="60" width="auto" class="d-inline-block">
+                </div>
+                <div class="flex-grow-1 ms-3">
+                    <h1 id="name"><a href="https://gotdairyya.github.io/">Derya Akbaba</a></h1>
+                </div>
+            </div>
+            <div class="container-fluid">
+                <span>PostDoctoral Researcher</span><br>
+                <span>Dept. Computing and Learning Systems</span><br>
+                <span>KTH Royal Institute of Technology</span><br>
+                <span>✉ gotdairyya (at) gmail (dot) com</span>
+            </div>
+             <br>
+         <nav class="navbar">
+        <ul class="nav flex-lg-column">
             {% for item in site.data.navigation %}
-            <li class="nav-item">
-                <a class="nav-link" href="{{ item.link }}" {% if page.url==item.link %} {% endif %}>
+           <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="{{ item.link }}" {% if page.url==item.link %} {% endif %}>
                     {{ item.name }}
-                </a>
+                </a></li>
                 {% endfor %}
             </li>
         </ul>
+        </nav>
+
+
+
+
+
+
+
+
+
+
+
+        <div class="container-fluid" id="newslist">
+            <h4>News</h4>
+            {% include news.html %}
+        </div>
     </div>
 </nav>

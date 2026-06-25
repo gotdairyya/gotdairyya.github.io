@@ -2,97 +2,155 @@
 @import url("https://fonts.googleapis.com/css?family=Inconsolata|Lora|Darker+Grotesque&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Rock+3D&display=swap");
 
 :root {
   /* VAPORWAVE */
-  --green: #62CD88;
+  --green: #62cd88;
   --yellow: #ffc527;
-  --orange: #F0918E;
-  --pink: #ED73D0;
-  --purple: #A88DF8;
-  --blue: #9FCEFB;
+  --orange: #f0918e;
+  --pink: #ed73d0;
+  --purple: #a88df8;
+  --blue: #9fcefb;
 }
-
-
 
 /* TEXT */
 h1 {
-    font-family: "Indie Flower";
-    color: DarkSlateGray;
-    
-  }
-
+  font-family: "Darker Grotesque", sans-serif;
+  color: DarkSlateGray;
+}
 
 h2 {
-    font-family: "IBM Plex Mono", serif;
-    color: #575657;
-    letter-spacing: 0;
-  }
+  font-family: "Darker Grotesque", sans-serif;
+  color: #575657;
+}
+
+h3 {
+  font-family: "Darker Grotesque", sans-serif;
+  color: #453b45;
+}
+
+#name {
+  font-family: "Rock 3D", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  background-color: #f1f1f1;
+}
+
+li,
+p,
+summary,
+span {
+  font-family: "Darker Grotesque", sans-serif;
+}
+
+.nav-link {
+  font-size: 2em;
+}
+
+.nav-link {
+  font-size: 2em;
+}
+
+/* BUTTONS */
+button {
+  padding-left: 0;
+  border: none;
+}
+
+button:hover {
+  color: palevioletred;
+}
+
+a {
+  text-decoration-skip-ink: none;
+  text-decoration: underline;
+  background-color: none;
+}
+
+a:hover {
+  text-decoration-skip-ink: none;
+  text-decoration: underline;
+  background-color: none;
+  text-decoration-style: wavy;
+}
 
 
-  body {
-    background-color: #f1f1f1;
-  }
-  
-  li, p,
-  summary, span {
-    font-family: "Darker Grotesque", sans-serif;
-    font-size: 18px;
-    line-height: 22px;
-  }
+#name > a {
+  text-decoration: none;
+}
 
-  /* BUTTONS */
-  button {
-    padding-left:0;
-    border: none;
-  }
+#name > a:hover {
+  text-decoration-skip-ink: none;
+  text-decoration: underline;
+  background-color: none;
+  text-decoration-style: wavy;
+}
 
-  button:hover {
-    color: palevioletred;
-  }
+/* NEED TO FIX THIS!!! */
+.navbar > .nav > .nav-item > .nav-link:active {
+  text-decoration-skip-ink: none;
+  text-decoration: underline;
+  background-color: none;
+  text-decoration-style: wavy;
+}
 
-  a:hover {
-    text-decoration-skip-ink: none;
-    text-decoration: underline;
-    background-color: none;
-    text-decoration-style: wavy;
-  }
+/* ABOUT PAGE */
+#photo {
+  width: 30%;
+  float: left;
+  display: inline;
+  margin-right: 15pt;
+  margin-top: 15pt;
+}
 
-  /* ABOUT PAGE */
+#about-me {
+  display: inline-block;
+}
+
+/* CHANGE PHOTO ON MOBILE */
+
+@media only screen and (max-width: 600px) {
   #photo {
-    width: 20%;
-    float: left;
-    display: inline;
-    margin-right: 25pt;
-    margin-top: 25pt;
+    width: 100%;
+    display: block;
+    margin-bottom: 25pt;
   }
+}
 
-  #about-me {
-    display: inline-block;
+@media only screen and (max-width: 767px) {
+#newslist {
+    display: none;
   }
+}
 
-  /* CHANGE PHOTO ON MOBILE */
+.pub-image:hover {
+  animation: jump-shaking 0.83s infinite;
+}
 
-  @media only screen and (max-width: 600px) {
-    #photo {
-      width: 70%;
-      float: left;
-      display: block;
-      margin: 25pt;
-    }
+@keyframes jump-shaking {
+  0% {
+    transform: translateX(0);
   }
-
-  .pub-image:hover {
-    animation: jump-shaking 0.83s infinite;
+  25% {
+    transform: translateY(-9px);
   }
-
-  @keyframes jump-shaking {
-    0% { transform: translateX(0) }
-    25% { transform: translateY(-9px) }
-    35% { transform: translateY(-9px) rotate(17deg) }
-    55% { transform: translateY(-9px) rotate(-17deg) }
-    65% { transform: translateY(-9px) rotate(17deg) }
-    75% { transform: translateY(-9px) rotate(-17deg) }
-    100% { transform: translateY(0) rotate(0) }
+  35% {
+    transform: translateY(-9px) rotate(17deg);
   }
+  55% {
+    transform: translateY(-9px) rotate(-17deg);
+  }
+  65% {
+    transform: translateY(-9px) rotate(17deg);
+  }
+  75% {
+    transform: translateY(-9px) rotate(-17deg);
+  }
+  100% {
+    transform: translateY(0) rotate(0);
+  }
+}
