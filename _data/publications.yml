@@ -67,12 +67,12 @@
   journal: Computer Graphics Forum (EuroVis)
   year: 2026
   date: 2026-08
-  links: <a href="https://doi.org/10.1111/cgf.70453">paper</a>, <a href="https://doi.org/10.48550/arXiv.2606.09835">preprint</a>
+  links: <a href="https://doi.org/10.1111/cgf.70453">preprint</a>, <a href="http://doi.org/10.1111/cgf.70453">paper</a>
   image:
 - title: "Designing Vibes in a Science Museum: from @Science to @🤗"
   authors: Derya Akbaba, Daniela Paz Moyano Dávila, Måns Gezelius, Yin He, Miriah Meyer
   journal: Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS '26) 
   year: 2026
   date: 2026-09
-  links: <a href="https://doi.org/10.1145/3800645.3813762">paper</a>
+  links: <a href="https://doi.org/10.48550/arXiv.2606.09847">preprint</a>
   image: 
