@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 image: aliens
 header: Touching Data through Physicalization
 ---

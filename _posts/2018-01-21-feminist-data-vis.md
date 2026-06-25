@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 image: feminist-aliens
 header: Feminist Data Visualization for Everyone
 ---
