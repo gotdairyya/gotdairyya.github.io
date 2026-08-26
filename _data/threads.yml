@@ -1,0 +1,69 @@
+- id: community
+  title: Vis in community spaces
+  color: "#1D9E75"
+  papers:
+    - label: dis26
+      desc: ...in science museums
+      url: "https://dl.acm.org/doi/abs/10.1145/3800645.3813762"
+    - label: eurovis26
+      desc: ...with non-profits
+      url: "https://onlinelibrary.wiley.com/doi/10.1111/cgf.70453"
+
+- id: feminist
+  title: Feminist data visualization + HCI
+  color: "#7F77DD"
+  papers:
+    - label: vis24
+      desc: ...developing new theory for vis
+      url: "#"
+    - label: altvis21
+      desc: ...introducing alternative histories of vis
+      url: "#"
+    - label: website
+      url: "#"
+    - label: "cg&a1"
+      desc: + community building
+      url: "#"
+    - label: "cg&a2"
+      desc: + community building
+      url: "#"
+    - label: "nordichi26"
+      desc: + community building
+      url: "#"
+
+- id: input
+  title: Input visualization
+  color: "#D85A30"
+  papers:
+    - label: critcomp26
+      url: "#"
+    - label: vis25
+      url: "#"
+    - label: vis25workshop
+      url: "#"
+    - label: vis23
+      url: "#"
+    - label: dagstuhl27
+      url: "#"
+
+- id: sustainability
+  title: "Sustainability & resilience"
+  color: "#D4537E"
+  papers:
+    - label: chi23
+      url: "#"
+    - label: eurovis26
+      url: "#"
+
+- id: methods
+  title: Methods for visualization
+  color: "#EF9F27"
+  papers:
+    - label: vis23paper
+      url: "#"
+    - label: chi23
+      url: "#"
+    - label: eurovis26
+      url: "#"
+    - label: primer
+      url: "#"
