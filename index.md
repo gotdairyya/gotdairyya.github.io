@@ -5,7 +5,7 @@ title: about me
 
 Hej! Merhaba! Hello! I’m Derya, a researcher working on data visualization technology from a feminist lens. I work mostly with entanglement theories to explore how the tools we use to graphically communicate information is shaped by and shapes relationships across power, people, and the environment. My motivation is to create accessible, care-ful, and imaginative data visualizations that can participate in building new relationships with data and others. 
 
-I am currently a researcher at [KTH Royal Institute of Technology](https://www.kth.se/profile/akbaba) in Stockholm, Sweden. I received my PhD in Computer Science with a focus on data visualization, feminism, and human computer interaction from the Linköping University in 2025, contributing to co-building of the new [Visual Interaction Design](https://visidlab.github.io/) lab. 
+I am a postdoc at the [University of Copenhagen](https://di.ku.dk/english/staff/?pure=en/persons/947279) in Copenhagen, Denmark. I received my PhD in Computer Science with a focus on data visualization, feminism, and human computer interaction from the Linköping University in 2025, contributing to co-building of the new [Visual Interaction Design](https://visidlab.github.io/) lab. 
 
 <span style="color: #a88df8; text-decoration: underline; text-decoration-style: wavy;">current research topics:</span> feminist/critical data visualization; alternative research outcomes; input visualization; missing data; data quality; visualization literacy
 
