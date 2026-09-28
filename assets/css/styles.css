@@ -91,10 +91,9 @@ a:hover {
 }
 
 /* NEED TO FIX THIS!!! */
-.navbar > .nav > .nav-item > .nav-link:active {
-  text-decoration-skip-ink: none;
+.nav-link.active {
+  font-weight: bold;
   text-decoration: underline;
-  background-color: none;
   text-decoration-style: wavy;
 }
 

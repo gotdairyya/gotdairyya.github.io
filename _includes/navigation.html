@@ -20,15 +20,19 @@
             </div>
              <br>
          <nav class="navbar">
-        <ul class="nav flex-lg-column">
-            {% for item in site.data.navigation %}
-           <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="{{ item.link }}" {% if page.url==item.link %} {% endif %}>
-                    {{ item.name }}
-                </a></li>
-                {% endfor %}
-            </li>
-        </ul>
+       <ul class="nav flex-lg-column">
+  {% for item in site.data.navigation %}
+  <li class="nav-item">
+    <a
+      class="nav-link{% if page.url == item.link %} active{% endif %}"
+      href="{{ item.link }}"
+      {% if page.url == item.link %}aria-current="page"{% endif %}
+    >
+      {{ item.name }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
         </nav>
 
 
